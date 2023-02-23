@@ -166,6 +166,7 @@
     justify-content: center;
     background-color: #555;
     color: #ffffff;
+    border-radius: 25px;
 }
 
 .projectButton:hover.projectButton::after {
